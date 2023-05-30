@@ -7,98 +7,15 @@
                     "link": "",
                     "linkText": "",
                     "models": [],
-                    "text": "Recall fix for 22S41: Software updated to protect high-voltage battery components from excessive heat generated during DC fast charging and repeated full throttle events."
-                },
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Recall fix for 22S29: Software updated to resolve a glitch in your vehicle that could potentially cause unintended acceleration, unintended deceleration, or unintended vehicle movement."
-                }
-            ],
-            "inhibitMinutes": 35,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["Mustang Mach-E"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-05-24T14:58:00.000Z",
-            "modulesUpdated": ["ABS", "BECM", "PCM", "SOBDMC"],
-            "powerupVersion": "4.2.6",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-05-01",
-            "submitDate": "2023-05-24T14:58:00.000Z",
-            "submittedBy": "@kaybay0",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "A minor change so your vehicle can easily install the more intricate updates coming in the future"
-                }
-            ],
-            "inhibitMinutes": 30,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["F-150"],
-            "modifiedBy": "@rugedraw",
-            "modifiedDate": "2023-05-03T16:00:00.000Z",
-            "modulesUpdated": ["IPC"],
-            "powerupVersion": "4.3.2",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-05-01",
-            "submitDate": "2023-05-03T16:00:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Enhancements made to your heating system (HVAC) to the heat capability and help your vehicle respond to humidity.  This should reduce fogging under certain conditions"
-                }
-            ],
-            "inhibitMinutes": 15,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["Mustang Mach-E"],
-            "modifiedBy": "@rugedraw",
-            "modifiedDate": "2023-04-24T16:00:00.000Z",
-            "modulesUpdated": ["HVAC"],
-            "powerupVersion": "4.2.5",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-04-01",
-            "submitDate": "2023-04-24T16:00:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
                     "text": "Added In-Vehicle Voice Feedback to share instant feedback with Ford"
                 }
             ],
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E", "F-150", "Lightning"],
+            "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-04-24T16:11:00.000Z",
+            "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["TCU"],
             "powerupVersion": "4.2.4",
             "releaseDateEu": "",
@@ -133,7 +50,7 @@
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E"],
+            "models": ["Mustang Mach-E", "F-150"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["GWM"],
@@ -151,44 +68,13 @@
                 {
                     "link": "",
                     "linkText": "",
-                    "models": ["Lightning Lariat", "Lightning Platinum"],
-                    "text": "Reissue | New games: Bridge Battle and Parking Lot"
-                },
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": ["Lightning Lariat", "Lightning Platinum"],
-                    "text": "Reissue | Some housekeeping features are included to help further enhance your user experience"
-                }
-            ],
-            "inhibitMinutes": 0,
-            "inhibitRequired": false,
-            "modelYears": [],
-            "models": ["Lightning"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-05-17T14:58:00.000Z",
-            "modulesUpdated": ["APIM"],
-            "powerupVersion": "4.2.3",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-05-01",
-            "submitDate": "2023-05-17T14:58:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
                     "models": [],
                     "text": "Adds camera icon to header bar for 2023MY vehicles"
                 }
             ],
             "inhibitMinutes": 0,
             "inhibitRequired": false,
-            "modelYears": ["2023"],
+            "modelYears": [],
             "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
@@ -237,31 +123,6 @@
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["APIM"],
             "powerupVersion": "4.2.2",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-03-01",
-            "submitDate": "2023-04-04T14:58:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "More enhancements are on the way. We've made some minor updates to keep everything running smoothly, including improvements to FordPass® Connect modem"
-                }
-            ],
-            "inhibitMinutes": 0,
-            "inhibitRequired": false,
-            "modelYears": ["2023"],
-            "models": ["Mustang Mach-E"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-04-24T16:20:00.000Z",
-            "modulesUpdated": ["TCU"],
-            "powerupVersion": "4.2.1.2",
             "releaseDateEu": "",
             "releaseDateUs": "2023-03-01",
             "submitDate": "2023-04-04T14:58:00.000Z",
@@ -325,7 +186,7 @@
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E", "Lightning"],
+            "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["GWM"],
@@ -368,7 +229,7 @@
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E", "Lightning"],
+            "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["APIM"],
@@ -399,7 +260,7 @@
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E", "Lightning"],
+            "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["GWM"],
@@ -573,7 +434,7 @@
             "inhibitMinutes": 0,
             "inhibitRequired": false,
             "modelYears": [],
-            "models": ["Mustang Mach-E", "Lightning"],
+            "models": ["Mustang Mach-E"],
             "modifiedBy": "@tonesto7",
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["GWM"],
@@ -654,7 +515,7 @@
             "wifiRequired": false
         },
         {
-            "apimVersion": "",
+            "apimVersion": "v4.0.22192",
             "changes": [
                 {
                     "link": "",
@@ -671,7 +532,7 @@
             "modifiedDate": "2023-04-04T14:58:00.000Z",
             "modulesUpdated": ["GWM"],
             "powerupVersion": "3.5.2.1",
-            "releaseDateEu": "2023-01-01",
+            "releaseDateEu": "2022-09-01",
             "releaseDateUs": "",
             "submitDate": "2023-04-04T14:58:00.000Z",
             "submittedBy": "",
@@ -1231,37 +1092,6 @@
             "wifiRequired": false
         },
         {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": " Your vehicle can talk (Note that you may have already received an earlier version of Ford Assistant but this update is an enhancement.) Ever wish you could talk to your truck? Now you can with Ford Assistant. Just say, “OK, Ford” to start the conversation, then ask things like \"How does my cruise control work?\", or \"What does Pro Trailer Backup Assist do?\". Your assistant will tell you what you need to know"
-                },
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Minor updates here and there. Just small stuff to keep everything running smoothly"
-                }
-            ],
-            "inhibitMinutes": 0,
-            "inhibitRequired": false,
-            "modelYears": [],
-            "models": ["F-150"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-05-12T12:58:00.000Z",
-            "modulesUpdated": ["APIM", "TCU"],
-            "powerupVersion": "2.6.0",
-            "releaseDateEu": "",
-            "releaseDateUs": "2022-05-01",
-            "submitDate": "2023-05-12T12:58:00.000Z",
-            "submittedBy": "@Soccergk2003",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
             "apimVersion": "v4.0.22095",
             "changes": [
                 {
@@ -1680,12 +1510,6 @@
                     "linkText": "",
                     "models": [],
                     "text": "Added horn and lights feature in FordPass"
-                },
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Changes to update scheduling to allow for multi-day schedules"
                 }
             ],
             "inhibitMinutes": 0,
@@ -1755,81 +1579,6 @@
             "releaseDateEu": "",
             "releaseDateUs": "2021-12-01",
             "submitDate": "2023-04-04T14:58:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Ford Power-Up Customer Satisfaction Program 21B37 We updated your Powertrain Control Module to fix a potential no-start condition.."
-                }
-            ],
-            "inhibitMinutes": 5,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["F-150"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-04-04T14:58:00.000Z",
-            "modulesUpdated": ["PCM"],
-            "powerupVersion": "Ford Power Up CSP 21B37",
-            "releaseDateEu": "",
-            "releaseDateUs": "",
-            "submitDate": "2023-04-20T14:58:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "Quality improvement to your trailer position/license plate lights."
-                }
-            ],
-            "inhibitMinutes": 5,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["F-150"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-04-04T14:58:00.000Z",
-            "modulesUpdated": ["BCM"],
-            "powerupVersion": "22-PU1009-DOR-CM/TLC-CSM",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-02-01",
-            "submitDate": "2023-04-20T14:58:00.000Z",
-            "submittedBy": "",
-            "updateMethod": "OTA",
-            "wifiRequired": false
-        },
-        {
-            "apimVersion": "",
-            "changes": [
-                {
-                    "link": "",
-                    "linkText": "",
-                    "models": [],
-                    "text": "To help alleviate overheating, we made an update to improve your heated mirrors for optimal temperature"
-                }
-            ],
-            "inhibitMinutes": 20,
-            "inhibitRequired": true,
-            "modelYears": [],
-            "models": ["F-150"],
-            "modifiedBy": "@tonesto7",
-            "modifiedDate": "2023-04-04T14:58:00.000Z",
-            "modulesUpdated": ["DDM", "PDM"],
-            "powerupVersion": "22-PU1007-DOR-UP",
-            "releaseDateEu": "",
-            "releaseDateUs": "2023-02-01",
-            "submitDate": "2023-04-20T14:58:00.000Z",
             "submittedBy": "",
             "updateMethod": "OTA",
             "wifiRequired": false
